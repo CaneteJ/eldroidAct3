@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Activity3</string>
+
+    <string name="desc_a">
+  Alice Johnson is a 30-year-old female software engineer residing at 123 Main Street, Cityville. Her interests include reading, hiking, and coding.
+</string>
+
+    <string name="desc_b">
+  Bob Smith is a 25-year-old male graphic designer living at 456 Oak Avenue, Townsville. He enjoys art, photography, and traveling.
+</string>
+
+    <string name="desc_c">
+  Carol Davis is a 35-year-old marketing executive residing at 789 Pine Road, Villagetown. She loves gardening, cooking, and attending music concerts.
+</string>
+
+    <string name="desc_d">
+  David Miller is a 28-year-old architect living at 101 Cedar Lane, Hamlet City. He is passionate about sustainable design and enjoys playing the guitar.
+</string>
+
+    <string name="desc_e">
+  Emily Wilson is a 22-year-old college student studying psychology. She lives at 202 Maple Street, Campusville, and enjoys painting and playing volleyball.
+</string>
+
+    <string name="desc_f">
+  Frank Brown is a 40-year-old chef with a restaurant on 567 Elm Street, Culinarytown. His hobbies include experimenting with new recipes and collecting vintage cookbooks.
+</string>
+
+    <string name="desc_g">
+  Grace Taylor is a 27-year-old fitness trainer residing at 303 Spruce Avenue, Fitville. She loves outdoor activities, yoga, and promoting a healthy lifestyle.
+</string>
+
+    <string name="desc_h">
+  Henry Clark is a 32-year-old financial analyst living at 404 Birch Lane, Financetown. He enjoys playing chess, reading financial journals, and practicing mindfulness.
+</string>
+
+    <string name="desc_i">
+  Irene White is a 45-year-old librarian at 555 Oak Road, Booksville. Her passions include reading classic literature, attending book clubs, and gardening.
+</string>
+
+    <string name="desc_j">
+  Jack Harris is a 26-year-old journalist working for a local newspaper. He resides at 606 Pine Avenue, Newstower, and enjoys investigative reporting and photography.
+</string>
+
+    <string name="desc_k">
+  Kelly Anderson is a 31-year-old veterinarian at 707 Cedar Street, Petville. Her love for animals extends to volunteering at animal shelters and wildlife conservation efforts.
+</string>
+
+    <string name="desc_l">
+  Leo Martinez is a 29-year-old software developer at 808 Spruce Road, Codetown. He is an avid gamer, technology enthusiast, and enjoys attending tech conferences.
+</string>
+
+    <string name="desc_m">
+  Mia Robinson is a 24-year-old fashion designer with a studio at 909 Maple Lane, Fashioncity. She loves creating unique clothing designs, sketching, and attending fashion shows.
+</string>
+
+    <string name="desc_n">
+  Noah Young is a 33-year-old teacher at 1010 Birch Avenue, Edutown. He is passionate about education, enjoys playing musical instruments, and coaches the school's soccer team.
+</string>
+
+    <string name="desc_o">
+  Olivia Moore is a 36-year-old interior decorator at 1111 Oak Street, Decortown. Her creative pursuits include designing elegant interiors, collecting vintage furniture, and painting.
+</string>
+
+    <string name="desc_p">
+  Peter Lee is a 28-year-old IT consultant residing at 1212 Pine Road, Techville. He is enthusiastic about new technologies, coding, and contributing to open-source projects.
+</string>
+
+    <string name="desc_q">
+  Quinn Hall is a 25-year-old marketing specialist at 1313 Cedar Lane, Markettown. She enjoys digital marketing, social media strategy, and organizing community events.
+</string>
+
+    <string name="desc_r">
+  Rachel Turner is a 30-year-old event planner at 1414 Spruce Avenue, Eventsville. She loves creating memorable experiences, organizing weddings, and exploring new event trends.
+</string>
+
+    <string name="desc_s">
+  Sam Baker is a 37-year-old firefighter at 1515 Maple Street, Firetown. He is dedicated to community service, physical fitness, and training for emergency response situations.
+</string>
+
+    <string name="desc_t">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+
+    <string name="desc_u">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+
+    <string name="desc_v">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+
+    <string name="desc_w">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+
+    <string name="desc_x">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+
+    <string name="desc_y">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+
+    <string name="desc_z">
+  Taylor Carter is a 23-year-old graphic design student living at 1616 Birch Road, Designville. They are passionate about visual arts, experimenting with design software, and exploring diverse creative styles.
+</string>
+</resources>
